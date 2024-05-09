@@ -1,4 +1,6 @@
 # goToInclude
+
+[Marketplace](https://marketplace.visualstudio.com/items?itemName=IP050.JinjaDjangoNavigator)
 # JinjaDjangoNavigator 
 
 A Visual Studio Code extension designed to streamline your development workflow when working with Jinja and Django templating engines. 
