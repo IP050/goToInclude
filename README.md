@@ -8,6 +8,8 @@ A Visual Studio Code extension designed to streamline your development workflow 
 
 ## Usage 
 
+![include_demo](https://github.com/IP050/goToInclude/assets/74495292/7e502954-227a-4fa5-ade5-1ad9efa808f0)
+
 *Directly go to {% include "includes/this-template.html" %}*
 
 Select whole line from `{` to `}` and either rightclick on `Go to included file` or use the keybinding `ctrl+alt+i`
