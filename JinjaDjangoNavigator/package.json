@@ -3,7 +3,7 @@
   "name": "JinjaDjangoNavigator",
   "displayName": "GoToInclude",
   "description": "Focuses on enhancing navigation to included or extended HTML template files in environments like Django or Jinja",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.89.0"
   },
