@@ -2,6 +2,7 @@
 
 A Visual Studio Code extension designed to streamline your development workflow when working with Jinja and Django templating engines. 
 
+![include_demo](https://github.com/IP050/goToInclude/assets/74495292/7e502954-227a-4fa5-ade5-1ad9efa808f0)
 
 ## Usage 
 
